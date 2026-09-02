@@ -1,4 +1,4 @@
-# PRA2003-Programming
+# PRA2003-Programming Małgorzata Fic(i6362471)
 
 #Goal is to answer the following questions:
 
