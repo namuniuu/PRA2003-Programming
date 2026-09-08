@@ -1,6 +1,6 @@
 # PRA2003-Programming Małgorzata Fic(i6362471)
-Bacterial Movement and Population Analysis
-Scenario
+**Bacterial Movement and Population Analysis
+Scenario**
 
 Each input file is a simulated output from a bacterial tracking experiment, modeling how different bacterial species move and proliferate under a given nutrient or stress condition.
 
