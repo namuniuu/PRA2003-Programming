@@ -1,5 +1,4 @@
-**PRA2003-Programming Małgorzata Fic(i6362471)
-**
+# PRA2003-Programming Małgorzata Fic(i6362471)
 Bacterial Movement and Population Analysis
 Scenario
 
