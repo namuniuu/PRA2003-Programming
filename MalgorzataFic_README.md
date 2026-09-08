@@ -18,17 +18,17 @@ Goal
 
 Answer the following:
 
-1. What are the average counts of each bacterial strain and their statistical uncertainties?\n
-2. Is there any asymmetry between the normal and the mutant strain?\n
-3. Is there any asymmetry as a function of their momentum?\n
+1. What are the average counts of each bacterial strain and their statistical uncertainties?
+2. Is there any asymmetry between the normal and the mutant strain?
+3. Is there any asymmetry as a function of their momentum?
 
 **Installation**
 bash
 # TODO: (list dependencies)
-pip install numpy matplotlib
+tbd
 Usage
 bash
 # TODO: (replaced with actual command)
-python analysis.py <input_file>
+tbd
 
-Output: TODO describe what the script prints/plots (e.g. strain counts + uncertainties, asymmetry value, momentum plot).
+Output: TODO describe what the script prints/plots.
